@@ -1,2 +1,2 @@
 # Photo Gallery
-I have created a web pages i.e. photo gallery web page in which when you hover on a photo then it will expand. 
+I have created photo gallery web page in which when you hover on a photo then it will expand. 
